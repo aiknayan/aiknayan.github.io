@@ -40,7 +40,6 @@ http://data.kenecolor.com/data/disk1/disk1/New%20South%20Indian%20Movies/Baahuba
 http://dl.ctgfun.com/data/disk2/Hindi%20Movies/2015%20%26%20OLD/Student.of.the.Year.2012.BluRay.1080p.MHD.x264.DD5.1%20%5BDDN%5D/Student.of.the.Year.2012.BluRay.1080p.MHD.x264.DD5.1%20%5BDDN%5D.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzODMxNDU3MF5BMl5BanBnXkFtZTgwMDAzNjMxMjE@._V1_.jpg" group-title="Hindi",Ek Villain 2014
 http://dl.ctgfun.com/data/disk2/Hindi%20Movies/2015%20%26%20OLD/Ek%20Villain%202014%20Hindi%20720p%20BluRay%20x264%20AAC%205.1%20MSubS-Hon3y/Ek%20Villain%202014%20Hindi%20720p%20BluRay%20x264%20AAC%205.1%20MSubS-Hon3y.mkv
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlhYzNjNjgtYWM3Yi00NTc0LTlhYTctYWZmOGFlY2FhOGI1XkEyXkFqcGdeQXVyNDMyNDQ4NjY@._V1_.jpg" group-title="Hindi",Baaghi 2 2018
 http://dl.ctgfun.com/data/disk2/Hindi%20Movies/2018/Baaghi%202%20%282018%29%201080p%20WEB-DL%20x264%20AAC%20Esub%20%5BDDN%5D/Baaghi%202%20%282018%29%201080p%20WEB-DL%20x264%20AAC%20Esub%20%5BDDN%5D.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTAxNWE2MDItZWFlNS00MWM1LWI1ZjQtN2I5NDBhNWYzZjNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi",Baaghi 3 2020
@@ -51,6 +50,10 @@ http://dl.ctgfun.com/data/disk2/Hindi%20Movies/2019/War.2019.1080p.Bluray.DD5.1.
 http://fs.ebox.live/Movies/Animated/2021/The%20Boss%20Baby:%20Family%20Business%20[2021]/The.Boss.Baby.Family.Business.2021__1080p.WEBrip__E-BOX.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg" group-title="Animation",WALL-E 2008
 http://dl.ctgfun.com/data/disk4/IMDb%20Top%20250%20Movies/WALL-E.2008.1080p.BluRay.H264.AAC-RARBG/WALL-E.2008.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_.jpg" group-title="Animation",The Croods 2013
+http://dl.ctgfun.com/data/disk6/English%20Movies%20%282014%20%26%20Old%29/The.Croods.2013.1080p.BluRay.H264.AAC%20%5BDDN%5D/The.Croods.2013.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNkOTYzZjMtNDU1YS00ODg3LWE4YjAtMTNiNjQwNGVmMmE4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="Animation",The Croods: A New Age 2020
+http://data.kenecolor.com/data/disk6/New%20English%20Movies/The.Croods.A.New.Age.2020.1080p.BluRay.H264.AAC%20%5BDDN%5D/The.Croods.A.New.Age.2020.1080p.BluRay.H264.AAC%20%5BDDN%5D.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2M3MzMyZGYtYjRiNS00ZWFiLWJkNzUtOTljYjM0MTMwMzBhXkEyXkFqcGdeQXVyMjQwODkxNzg@._V1_.jpg" group-title="Bengali",Chalbaaz 2018
 http://103.195.1.50/Data/disk4/Movies/hollywood/Chalbaaz%20(2018)/Chalbaaz%20(2018)%20Bengali%20WEB-%20720p.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgwMDc0NzItOTNiZi00NWFhLTk4NTEtZjk5YTM2ZTdhMDYxXkEyXkFqcGdeQXVyNjQyNTA2NDA@._V1_.jpg" group-title="Bengali",Jawker Dhan 2017
