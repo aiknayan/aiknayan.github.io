@@ -1,0 +1,12 @@
+
+
+
+#ThunderBD
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="http://tv.roarzone.info/assets/images/gtv.png" group-title="ThunderBD",GTV
+http://etv.roarzone.info:8081/thunderbd/1/chunks.m3u8?nimblesessionid=2759848&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjEgMzo1MDoxMiBQTSZoYXNoX3ZhbHVlPWZkSXJXQzNhNXRQUGU1OEw3NUJ6THc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="http://tv.roarzone.info/assets/images/sonysixhd.png" group-title="ThunderBD",Sony Six HD
+http://etv.roarzone.info:8081/thunderbd/24/chunks.m3u8?nimblesessionid=2759990&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjEgMzo1MTozOSBQTSZoYXNoX3ZhbHVlPXJPVTFwOHpuU2wrNVVza3ZjdzJJOVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="http://tv.roarzone.info/assets/images/independent.png" group-title="ThunderBD",Independent
+http://etv.roarzone.info:8081/thunderbd/12/chunks.m3u8?nimblesessionid=2760917&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjEgNDowNzowMSBQTSZoYXNoX3ZhbHVlPU04enJrTDMvcmhVcXhabUhWMjhod0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
