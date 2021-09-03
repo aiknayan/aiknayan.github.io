@@ -99,3 +99,161 @@ http://data.kenecolor.com/data/disk6/New%20English%20Movies/The.Croods.A.New.Age
 http://103.195.1.50/Data/disk4/Movies/hollywood/Chalbaaz%20(2018)/Chalbaaz%20(2018)%20Bengali%20WEB-%20720p.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgwMDc0NzItOTNiZi00NWFhLTk4NTEtZjk5YTM2ZTdhMDYxXkEyXkFqcGdeQXVyNjQyNTA2NDA@._V1_.jpg" group-title="Bengali",Jawker Dhan (2017)
 http://data.kenecolor.com/data/disk6/New%20Bengali%20Movies/Jawker%20Dhan%20%282017%29%20Bengali%20720p%20WEB-DL%20x264%20%5BDDN%5D/Jawker%20Dhan%20%282017%29%20Bengali%20720p%20WEB-DL%20x264%20%5BDDN%5D.mkv
+
+
+
+
+
+
+
+
+
+#EXTM3U
+ #EXTINF:-1 tvg-name="Thor" tvg-logo="https://bitly.com/3B2IbGD" group-title="Marvel Cinematic Universe", Thor (2011)
+https://cdn.jwplayer.com/manifests/zHm5NOY7.m3u8
+#EXTINF:-2 tvg-name="Black Panther" tvg-logo="https://bitly.com/3khku6K" group-title="Marvel Cinematic Universe", Black Panther (2018)
+https://cdn.jwplayer.com/manifests/OTCIa1rV.m3u8
+#EXTINF:-3 tvg-name="Ironman 2" tvg-logo="https://bitly.com/3z6PGvl" group-title="Marvel Cinematic Universe", Ironman 2 (2010)
+https://cdn.jwplayer.com/manifests/1dL6doF4.m3u8
+#EXTINF:-4 tvg-name="Black widow" tvg-logo="https://bitly.com/37ZXwuZ" group-title="Marvel Cinematic Universe", Black widow (2021)
+https://cdn.jwplayer.com/manifests/8iQRpnBM.m3u8
+#EXTINF:-5 tvg-name="The Avengers" tvg-logo="https://bitly.com/384RV6s" group-title="Marvel Cinematic Universe", The Avengers (2012)
+https://cdn.jwplayer.com/manifests/69HhietH.m3u8
+#EXTINF:-6 tvg-name="Avengers Infinity War" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Avengers-Infinity-War.jpg" group-title="Marvel Cinematic Universe", Avengers Infinity War (2018)
+https://cdn.jwplayer.com/manifests/v3xQg9Gr.m3u8
+#EXTINF:-7 tvg-name="Avengers Endgame" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Avengers-Endgame-Poster-Vertical.jpg" group-title="Marvel Cinematic Universe", Avengers Endgame (2019)
+https://cdn.jwplayer.com/manifests/bwp57dtf.m3u8
+#EXTINF:-8 tvg-name="Captain Marvel" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Captain-Marvel.jpg" group-title="Marvel Cinematic Universe", Captain Marvel (2019)
+https://cdn.jwplayer.com/manifests/M00HTOl8.m3u8
+#EXTINF:-9 tvg-name="Antman" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Ant-Man-e1559575182950.jpg" group-title="Marvel Cinematic Universe", Ant-Man (2015)
+https://cdn.jwplayer.com/manifests/7dmCEMji.m3u8
+#EXTINF:-10 tvg-name="ant-man and the WASP" tvg-logo="https://images.moviesanywhere.com/8f27781bd34070cf52f5a18bdc1a820c/5bff2157-7614-4183-a4a7-b9d14d3f9c9c.jpg?h=375&resize=fit&w=250" group-title="Marvel Cinematic Universe", Ant-Man and the Wasp (2018)
+https://cdn.jwplayer.com/manifests/lQVn7hUN.m3u8
+#EXTINF:-11 tvg-name="The Incredible Hulk" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/images-1.jpeg" group-title="Marvel Cinematic Universe", The Incredible Hulk (2008)
+https://cdn.jwplayer.com/manifests/e9YK10Y6.m3u8
+#EXTINF:-12 tvg-name="Doctor Strange" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Doctor-Strange.jpg" group-title="Marvel Cinematic Universe", Doctor Strange (2016)
+https://cdn.jwplayer.com/manifests/gqvHh04C.m3u8
+#EXTINF:-13 tvg-name="Avengers Age of Ultron" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Avengers-Age-Of-Ultron.jpg" group-title="Marvel Cinematic Universe", Avengers Age of Ultron (2015)
+https://cdn.jwplayer.com/manifests/X3Tmtkvr.m3u8
+#EXTINF:-14 tvg-name="Guardians of the Galaxy vol. 2" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Guardians-Of-The-Galaxy-Vol.2.jpg" group-title="Marvel Cinematic Universe", Guardians of the Galaxy Vol. 2 (2017)
+https://cdn.jwplayer.com/manifests/pOxiMZjb.m3u8
+#EXTINF:-15 tvg-name="Spider-Man Far from Home" tvg-logo="https://bitly.com/3D5d4f5" group-title="Marvel Cinematic Universe", Spider-Man: Far from Home (2019)
+https://cdn.jwplayer.com/manifests/bP5b5J2F.m3u8
+#EXTINF:-16 tvg-name="Guardians of the Galaxy" tvg-logo="https://bitly.com/382uCdQ" group-title="Marvel Cinematic Universe", Guardians of the Galaxy (2014)
+https://cdn.jwplayer.com/manifests/WPrwnmBa.m3u8
+#EXTINF:-17 tvg-name="Spider-Man Homecoming" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Spider-Man-Homecoming.jpg" group-title="Marvel Cinematic Universe", Spider-Man: Homecoming (2017)
+https://cdn.jwplayer.com/manifests/bSOn29rX.m3u8
+#EXTINF:-18 tvg-name="Thor The Dark World" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Thor-The-Dark-World.jpg" group-title="Marvel Cinematic Universe", Thor: The Dark World (2013)
+https://cdn.jwplayer.com/manifests/oH4446c5.m3u8
+#EXTINF:-19 tvg-name="Thor Ragnarok" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Thor-Ragnarok.jpg" group-title="Marvel Cinematic Universe", Thor: Ragnarok (2017)
+https://cdn.jwplayer.com/manifests/7wqh8zog.m3u8
+#EXTINF:-20 tvg-name="Captain America The winter soldier" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Captain-America-The-Winter-Soldier.jpg" group-title="Marvel Cinematic Universe", Captain America: The Winter Soldier (2014)
+https://cdn.jwplayer.com/manifests/pu37M9iJ.m3u8
+#EXTINF:-21 tvg-name="Iron Man 3" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Iron-Man-3.jpg" group-title="Marvel Cinematic Universe", Iron Man 3 (2013)
+https://cdn.jwplayer.com/manifests/ZVXMq5Lb.m3u8
+#EXTINF:-22 tvg-name="Captain America The First Avengers" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/captain-america-the-first-avenger-movie-poster-marvel-cinematic-1038891.jpeg" group-title="Marvel Cinematic Universe", Captain America: The First Avenger (2011)
+https://cdn.jwplayer.com/manifests/jKcPAL03.m3u8
+#EXTINF:-23 tvg-name="Iron Man" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/6068357f12a44.jpeg" group-title="Marvel Cinematic Universe", Iron Man (008)
+https://cdn.jwplayer.com/manifests/xhSJ4iL3.m3u8
+#EXTINF:-24 tvg-name="Captain America Civil war" tvg-logo="https://trickbd.com/wp-content/uploads/2021/04/03/Captain-America-Civil-War.jpg" group-title="Marvel Cinematic Universe", Captain America: Civil War (2016)
+https://cdn.jwplayer.com/manifests/jQSEt5tD.m3u8
+#EXTINF:-24 tvg-name="Zack Snyders Justice League" tvg-logo="https://images.indianexpress.com/2021/03/zack-snyder-s-justice-league-poster-1200.jpeg" group-title="DC Non-Canon", Zack Snyder's Justice League (2021)
+https://cdn.jwplayer.com/manifests/gthrdw31.m3u8
+#EXTINF:-24 tvg-name="Episode 1" tvg-logo="https://i.gadgets360cdn.com/large/loki_hindi_tamil_telugu_1616135754264.jpg?downsize=950:*&output-quality=80" group-title="Loki", Episode 1
+https://cdn.jwplayer.com/manifests/zDUPlnzb.m3u8
+#EXTINF:-24 tvg-name="Episode 2" tvg-logo="https://i.gadgets360cdn.com/large/loki_hindi_tamil_telugu_1616135754264.jpg?downsize=950:*&output-quality=80" group-title="Loki", Episode 2
+https://cdn.jwplayer.com/manifests/V02mXDaf.m3u8
+#EXTINF:-24 tvg-name="Episode 3" tvg-logo="https://i.gadgets360cdn.com/large/loki_hindi_tamil_telugu_1616135754264.jpg?downsize=950:*&output-quality=80" group-title="Loki", Episode 3
+https://cdn.jwplayer.com/manifests/5y1W0ygb.m3u8
+#EXTINF:-24 tvg-name="Episode 4" tvg-logo="https://i.gadgets360cdn.com/large/loki_hindi_tamil_telugu_1616135754264.jpg?downsize=950:*&output-quality=80" group-title="Loki", Episode 4
+https://cdn.jwplayer.com/manifests/X026gTII.m3u8
+#EXTINF:-24 tvg-name="Episode 5" tvg-logo="https://i.gadgets360cdn.com/large/loki_hindi_tamil_telugu_1616135754264.jpg?downsize=950:*&output-quality=80" group-title="Loki", Episode 5
+https://cdn.jwplayer.com/manifests/xWEAbEvB.m3u8
+#EXTINF:-24 tvg-name="Episode 6" tvg-logo="https://i.gadgets360cdn.com/large/loki_hindi_tamil_telugu_1616135754264.jpg?downsize=950:*&output-quality=80" group-title="Loki", Episode 6
+https://cdn.jwplayer.com/manifests/rp18k8d3.m3u8
+#EXTINF:-24 tvg-name="Episode 1" tvg-logo="https://bitly.com/3sEy480" group-title="The Falcon And The Winter Soldier", Episode 1
+https://cdn.jwplayer.com/manifests/mIPs9xZK.m3u8
+#EXTINF:-24 tvg-name="Episode 2" tvg-logo="https://bitly.com/3sEy480" group-title="The Falcon And The Winter Soldier", Episode 2
+https://cdn.jwplayer.com/manifests/nk1g1XxL.m3u8
+#EXTINF:-24 tvg-name="Episode 3" tvg-logo="https://bitly.com/3sEy480" group-title="The Falcon And The Winter Soldier", Episode 3
+https://cdn.jwplayer.com/manifests/KrZm1OWl.m3u8
+#EXTINF:-24 tvg-name="Episode 4"tvg-logo="https://bitly.com/3sEy480" group-title="The Falcon And The Winter Soldier", Episode 4
+https://cdn.jwplayer.com/manifests/xFFIbBcz.m3u8
+#EXTINF:-24 tvg-name="Episode 5" tvg-logo="https://bitly.com/3sEy480" group-title="The Falcon And The Winter Soldier", Episode 5
+https://cdn.jwplayer.com/manifests/Tn3LzH5O.m3u8
+#EXTINF:-24 tvg-name="Episode 6" tvg-logo="https://bitly.com/3sEy480" group-title="The Falcon And The Winter Soldier", Episode 6
+https://cdn.jwplayer.com/manifests/g20MkHlV.m3u8
+#EXTINF:-24 tvg-name="Man Of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Man_of_Steel_%28film%29_poster.jpg" group-title="DC Extended Universe", Man Of Steel (2013)
+https://cdn.jwplayer.com/manifests/uNHiECDJ.m3u8
+#EXTINF:-24 tvg-name="Justice League" tvg-logo="https://images6.fanpop.com/image/photos/43100000/Justice-League-2017-Poster-justice-league-movie-43105388-1900-2850.jpg" group-title="DC Extended Universe", Justice League (2017)
+https://cdn.jwplayer.com/manifests/9Pdi9QgP.m3u8
+#EXTINF:-24 tvg-name="Batman Vs Superman Dawn of Justice" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyyCYy3OZeCzFfY71jjpeavzbKjXsXjHiUiyOlvPYht81UR9lp" group-title="DC Extended Universe", Batman V Superman: Dawn Of Justice (2016)
+https://cdn.jwplayer.com/manifests/PVcDOYvw.m3u8
+#EXTINF:-48 tvg-name="Spider-man" tvg-logo="https://bitly.com/3mrnmAG" group-title="Sam Raimi's Spider-man Trilogy", Spider-Man (2002)
+https://cdn.jwplayer.com/manifests/IyvlKAvI.m3u8
+#EXTINF:-47 tvg-name="Spider-man 2" tvg-logo="https://bitly.com/3872DK4" group-title="Sam Raimi's Spider-man Trilogy", Spider-Man 2 (2004)
+https://cdn.jwplayer.com/manifests/dS63fYJ5.m3u8
+#EXTINF:-49 tvg-name="Spider-man 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Spider-Man_3%2C_International_Poster.jpg" group-title="Sam Raimi's Spider-man Trilogy", Spider-Man 3 (2007)
+https://cdn.jwplayer.com/manifests/sPYpJ6HT.m3u8
+#EXTINF:-24 tvg-name="The Suicide Squad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/The_Suicide_Squad_%28film%29_poster.jpg" group-title="DC Extended Universe", The Suicide Squad (2021)
+https://cdn.jwplayer.com/manifests/iEuhj5tF.m3u8
+#EXTINF:-24 tvg-name="Suicide Squad" tvg-logo="https://i0.wp.com/www.thehollywoodoutsider.com/wp-content/uploads/suicide-squad-poster.jpg?resize=618%2C396" group-title="DC Extended Universe", Suicide Squad (2016)
+https://cdn.jwplayer.com/manifests/tzYMnnEr.m3u8
+#EXTINF:-24 tvg-name="Birds of Prey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKfUQ2RURnqU2DJ0w1mWgG5Ri3sc0E63GTMHHoOSQg9TCk6DTInn3o78h4ER7N2O4Fo98&usqp=CAU" group-title="DC Extended Universe", Birds of Prey: Harley Quinn (2020)
+https://cdn.jwplayer.com/manifests/Rw7Okvbe.m3u8
+#EXTINF:-24 tvg-name="Batman Begins" tvg-logo="https://img.picturegalaxy.org/data/cover/M/6/M6jP0XgEQW.jpg" group-title="The Dark Knight Trilogy", Batman Begins (2005)
+https://cdn.jwplayer.com/manifests/VTIyz9i8.m3u8
+#EXTINF:-24 tvg-name="Episode 1" tvg-logo="https://bitly.com/3BedduX" group-title="What if?", Episode 1
+https://cdn.jwplayer.com/manifests/MJ2Ymnmh.m3u8
+#EXTINF:-24 tvg-name="Episode 2" tvg-logo="https://bitly.com/3BedduX" group-title="What if?", Episode 2
+https://cdn.jwplayer.com/manifests/91RXU1GY.m3u8
+#EXTINF:-24 tvg-name="Episode 3" tvg-logo="https://bitly.com/3BedduX" group-title="What if?", Episode 3
+https://cdn.jwplayer.com/manifests/ZQkOPngr.m3u8
+#EXTINF:-24 tvg-name="The Dark Knight" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH1Z3WEv-NS_ahc7NSQRz1LTh813Z6sMmI_E7d1_FYpQd0MxY" group-title="The Dark Knight Trilogy", The Dark Knight (2008)
+https://cdn.jwplayer.com/manifests/zcz78O2f.m3u8
+#EXTINF:-200 tvg-name="Joker" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Joker_%282019_film%29_poster.jpg/220px-Joker_%282019_film%29_poster.jpg" group-title="DC Stand Alone", Joker (2019)
+https://cdn.jwplayer.com/manifests/CdBPmzal.m3u8
+#EXTINF:-24 tvg-name="The Dark Knight Rises" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg" group-title="The Dark Knight Trilogy", The Dark Knight Rises (2012)
+https://cdn.jwplayer.com/manifests/lmru9fWg.m3u8
+#EXTINF:-24 tvg-name="Spider man into the spider verse" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png" group-title="Animation", Spider-Man: Into the Spider-Verse (2018)
+https://cdn.jwplayer.com/manifests/dzHv3SZR.m3u8
+#EXTINF:-24 tvg-name="Wonder Woman" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Wonder_Woman_%282017_film%29_poster.jpg" group-title="DC Extended Universe", Wonder Woman (2017)
+https://cdn.jwplayer.com/manifests/nNjeV7v1.m3u8
+#EXTINF:-24 tvg-name="Wonder Woman 1984" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Wonder_Woman_1984_poster.png" group-title="DC Extended Universe", Wonder Woman 1984 (2020)
+https://cdn.jwplayer.com/manifests/04AHo7Vu.m3u8
+#EXTINF:-248 tvg-name="Aquaman" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Aquaman_%28film%29_poster.jpg" group-title="DC Extended Universe", Aquaman (2018)
+https://cdn.jwplayer.com/manifests/AckrY27W.m3u8
+#EXTINF:-24 tvg-name="Episode 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 1
+https://cdn.jwplayer.com/manifests/QoC3PF1s.m3u8
+#EXTINF:-24 tvg-name="Episode 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 2
+https://cdn.jwplayer.com/manifests/DwNYwI2X.m3u8
+#EXTINF:-24 tvg-name="Episode 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 3
+https://cdn.jwplayer.com/manifests/p0CNP6C9.m3u8
+#EXTINF:-24 tvg-name="Episode 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 4
+https://cdn.jwplayer.com/manifests/CAVqY0sE.m3u8
+#EXTINF:-24 tvg-name="Episode 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 5
+https://cdn.jwplayer.com/manifests/i8VvqG84.m3u8
+#EXTINF:-24 tvg-name="Episode 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 6
+https://cdn.jwplayer.com/manifests/CWGnsTUP.m3u8
+#EXTINF:-24 tvg-name="Episode 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 7
+https://cdn.jwplayer.com/manifests/fpxowOp2.m3u8
+#EXTINF:-24 tvg-name="Episode 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 8
+https://cdn.jwplayer.com/manifests/5PLJOXbC.m3u8
+#EXTINF:-24 tvg-name="Episode 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png" group-title="WandaVision", Episode 9
+https://cdn.jwplayer.com/manifests/ccQGg3HH.m3u8
+#EXTINF:-6 tvg-name="All Hail The King" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/All_Hail_the_King_poster.jpg" group-title="Marvel Cinematic Universe - One Shots", All Hail the King (2014)
+https://cdn.jwplayer.com/manifests/UlyUEZRh.m3u8
+#EXTINF:-24 tvg-name="Shazam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Shazam%21_%28film%29_poster.jpg" group-title="DC Extended Universe", Shazam (2019)
+https://cdn.jwplayer.com/manifests/Ih1pNf7g.m3u8
+#EXTINF:-6 tvg-name="Item 47" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Item_47_poster.jpg" group-title="Marvel Cinematic Universe - One Shots", Item 47 (2012)
+https://cdn.jwplayer.com/manifests/fXjAWvQN.m3u8
+#EXTINF:-6 tvg-name="The Consultant" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/88/Marvel_One-Shot_The_Consultant.jpg" group-title="Marvel Cinematic Universe - One Shots", The Consultant (2011)
+https://cdn.jwplayer.com/manifests/prTSpxVu.m3u8
+#EXTINF:-6 tvg-name="Agent Carter" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Agent_Carter_One-Shot_poster.jpg" group-title="Marvel Cinematic Universe - One Shots", Agent Carter (2015)
+https://cdn.jwplayer.com/manifests/cWEECyiO.m3u8
+#EXTINF:-6 tvg-name="A Funny Thing Happened on the Way to Thor's Hammer" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/21/Marvel_One-Shot_A_Funny_Thing_Happened_on_the_Way_to_Thor%27s_Hammer.jpg" group-title="Marvel Cinematic Universe - One Shots", A Funny Thing Happened on the Way to Thor's Hammer (2011)
+https://cdn.jwplayer.com/manifests/s2vvZAHo.m3u8
+#EXTINF:-6 tvg-name="The Amazing Spider-man" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg" group-title="The Amazing Spider-man", The Amazing Spider-Man (2012)
+https://cdn.jwplayer.com/manifests/gdlmpOaU.m3u8
+#EXTINF:-6 tvg-name="The Amazing Spider-man 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg" group-title="The Amazing Spider-man", The Amazing Spider-Man 2 (2014)
+https://cdn.jwplayer.com/manifests/vHUqRyhW.m3u8
