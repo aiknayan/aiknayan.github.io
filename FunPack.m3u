@@ -104,10 +104,7 @@ http://data.kenecolor.com/data/disk6/New%20Bengali%20Movies/Jawker%20Dhan%20%282
 
 
 
-
-
-
-
+//Super Hero Movies
 #EXTINF:-1 tvg-name="Thor" tvg-logo="https://bitly.com/3B2IbGD" group-title="Marvel Cinematic Universe", Thor (2011)
 https://cdn.jwplayer.com/manifests/zHm5NOY7.m3u8
 #EXTINF:-2 tvg-name="Black Panther" tvg-logo="https://bitly.com/3khku6K" group-title="Marvel Cinematic Universe", Black Panther (2018)
